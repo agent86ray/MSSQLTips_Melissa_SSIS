@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MSSQLTips_Melissa_SSIS", "MSSQLTips_Melissa_SSIS.dtproj", "{A297E796-68E5-458D-AC44-4B7DC3C96869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A297E796-68E5-458D-AC44-4B7DC3C96869}.Development|Default.ActiveCfg = Development
+		{A297E796-68E5-458D-AC44-4B7DC3C96869}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B47C806-7E83-45EA-8C22-D8713234350C}
+	EndGlobalSection
+EndGlobal
